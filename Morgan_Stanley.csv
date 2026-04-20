@@ -1,0 +1,51 @@
+loan_id,loan_type,loan_amount,interest_rate,term,monthly_income,monthly_debt,property_value,credit_score,loan_status,investor_type,payment_status
+1,Residential,250000,4.5,30,6000,2000,300000,720,Active,Bank,Paid
+2,Auto,20000,6.5,5,4000,1500,0,680,Sold,Pension Fund,Late
+3,Residential,180000,5,30,5500,2500,220000,700,Funded,Hedge Fund,Paid
+4,Auto,15000,7,4,3500,1800,0,650,Active,Bank,Default
+5,Commercial,500000,5.5,20,12000,5000,600000,710,Sold,Insurance,Paid
+6,Student,40000,5.8,10,4500,2000,0,690,Funded,Pension Fund,Late
+7,Residential,220000,4.7,30,6200,2800,270000,730,Active,Bank,Paid
+8,Auto,18000,7.2,5,4200,2000,0,670,Sold,Hedge Fund,Paid
+9,Commercial,650000,6,25,15000,7000,800000,720,Funded,Insurance,Default
+10,Student,35000,6.2,10,4800,2100,0,700,Active,Bank,Paid
+11,Residential,260000,4.6,30,6500,2700,310000,740,Sold,Pension Fund,Late
+12,Auto,16000,7.5,4,3600,1700,0,660,Funded,Hedge Fund,Paid
+13,Commercial,720000,5.9,20,16000,7500,900000,730,Active,Insurance,Paid
+14,Student,30000,6.5,8,4300,1900,0,680,Sold,Pension Fund,Default
+15,Residential,195000,5.2,30,5400,2600,240000,710,Funded,Bank,Paid
+16,Auto,21000,6.8,5,4600,2200,0,690,Active,Bank,Late
+17,Residential,275000,4.4,30,7000,3000,330000,725,Sold,Hedge Fund,Paid
+18,Commercial,800000,6.1,25,18000,9000,1000000,740,Funded,Insurance,Paid
+19,Student,28000,6.3,10,4200,1800,0,675,Active,Pension Fund,Paid
+20,Auto,17000,7.1,4,3800,1600,0,660,Sold,Bank,Default
+21,Residential,230000,4.8,30,6100,2700,280000,720,Funded,Pension Fund,Paid
+22,Commercial,550000,5.7,20,13000,6000,650000,715,Active,Insurance,Late
+23,Student,45000,5.9,10,5000,2300,0,700,Sold,Hedge Fund,Paid
+24,Auto,19000,7.3,5,4100,1900,0,670,Funded,Bank,Paid
+25,Residential,210000,5.1,30,5800,2600,260000,705,Active,Pension Fund,Default
+26,Commercial,670000,6.2,25,15500,7200,820000,735,Sold,Insurance,Paid
+27,Student,32000,6.4,8,4400,2000,0,680,Funded,Bank,Late
+28,Auto,22000,6.9,5,4700,2100,0,695,Active,Hedge Fund,Paid
+29,Residential,290000,4.3,30,7500,3100,350000,740,Sold,Pension Fund,Paid
+30,Commercial,900000,6,25,20000,9500,1100000,750,Funded,Insurance,Paid
+31,Student,36000,6.1,10,4900,2200,0,710,Active,Bank,Paid
+32,Auto,14000,7.6,4,3400,1500,0,650,Sold,Hedge Fund,Default
+33,Residential,240000,4.9,30,6300,2800,290000,720,Funded,Pension Fund,Late
+34,Commercial,600000,5.8,20,14000,6500,700000,725,Active,Insurance,Paid
+35,Student,39000,6.2,10,4700,2100,0,700,Sold,Bank,Paid
+36,Auto,20000,6.7,5,4500,2000,0,690,Funded,Hedge Fund,Paid
+37,Residential,265000,4.5,30,6600,2900,320000,735,Active,Pension Fund,Paid
+38,Commercial,750000,6.1,25,17000,8000,900000,740,Sold,Insurance,Late
+39,Student,31000,6.3,8,4300,1900,0,680,Funded,Bank,Paid
+40,Auto,18000,7,5,4200,1800,0,670,Active,Hedge Fund,Default
+41,Residential,225000,5,30,6000,2700,270000,710,Sold,Pension Fund,Paid
+42,Commercial,820000,6.2,25,18500,8800,1000000,745,Funded,Insurance,Paid
+43,Student,34000,6.4,10,4600,2000,0,690,Active,Bank,Late
+44,Auto,16000,7.4,4,3600,1700,0,660,Sold,Hedge Fund,Paid
+45,Residential,255000,4.6,30,6400,2800,300000,725,Funded,Pension Fund,Paid
+46,Commercial,680000,5.9,20,15000,7000,800000,735,Active,Insurance,Paid
+47,Student,37000,6.1,10,4800,2100,0,700,Sold,Bank,Default
+48,Auto,21000,6.8,5,4600,2000,0,690,Funded,Hedge Fund,Paid
+49,Residential,280000,4.4,30,7200,3000,340000,740,Active,Pension Fund,Paid
+50,Commercial,910000,6.3,25,21000,9800,1150000,755,Sold,Insurance,Paid
